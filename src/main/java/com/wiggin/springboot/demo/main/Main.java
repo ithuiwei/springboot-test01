@@ -21,5 +21,6 @@ public class Main {
     public static void main(String[] args) {
 		”asdbd“
         SpringApplication.run(Main.class);
+		”bb“
     }
 }

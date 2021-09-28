@@ -22,5 +22,6 @@ public class Main {
 		”asdbd“
         SpringApplication.run(Main.class);
 		”bb“
+		”this is v2“
     }
 }

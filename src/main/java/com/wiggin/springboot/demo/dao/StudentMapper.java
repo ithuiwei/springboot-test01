@@ -15,5 +15,9 @@ public interface StudentMapper {
 
     int updateByPrimaryKey(Student record);
 	String findName();
+
 	system.print.out("这是master输出");
+
+	system.print.out(”这是dev修改“);
+
 }
